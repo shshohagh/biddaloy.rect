@@ -1,0 +1,6 @@
+{
+  "name": "Data Click IT HUB Management & POS",
+  "description": "Comprehensive School and Coaching Management System & Android POS client with Laravel PHP API integration, fee collection, attendance, admission, expenses, and receipt generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
